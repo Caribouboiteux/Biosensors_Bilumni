@@ -1,1 +1,0 @@
-This repository shows the code we used for our plot and arduino measurements.

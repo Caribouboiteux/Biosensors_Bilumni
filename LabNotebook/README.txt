@@ -1,1 +1,0 @@
-This repository presents each day of our research.
